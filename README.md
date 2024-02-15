@@ -1,5 +1,4 @@
 # Political-Analysis
 How Has the Electorate Changed Since Reagan? 
 
-This is the repository is companion for a long-form article linked here. 
-404dataguyblog.wordpress.com/2023/02/09/how-has-the-electorate-changed-since-reagan/
+This is the repository contains notebooks used for analysis as part of a project I did examining how the American Electorate has evolved in the past 30 years on State level. The PDF attached is a article summarizing my findings. 
